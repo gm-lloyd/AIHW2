@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.exe
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.deps.json
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.runtimeconfig.json
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.runtimeconfig.dev.json
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.dll
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\ref\QueenSolver.dll
+C:\Users\user\source\repos\QueenSolver\bin\Debug\net5.0\QueenSolver.pdb
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.csprojAssemblyReference.cache
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.AssemblyInfo.cs
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.dll
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\ref\QueenSolver.dll
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.pdb
+C:\Users\user\source\repos\QueenSolver\obj\Debug\net5.0\QueenSolver.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.exe
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.deps.json
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.runtimeconfig.json
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.runtimeconfig.dev.json
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.dll
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\ref\TileSolver.dll
+C:\Users\user\source\repos\TileSolver\bin\Release\net5.0\TileSolver.pdb
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.AssemblyInfo.cs
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.dll
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\ref\TileSolver.dll
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.pdb
+C:\Users\user\source\repos\TileSolver\obj\Release\net5.0\TileSolver.genruntimeconfig.cache
