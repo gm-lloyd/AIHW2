@@ -61,6 +61,12 @@ namespace QueenSolver
 			return boardState;
 		}
 
+		/// <summary>
+		/// helper method to implement equation to accept a lower quality solution
+		/// </summary>
+		/// <param name="temp"></param>
+		/// <param name="delta"></param>
+		/// <returns></returns>
 		private static bool acceptLowerScore(int temp, int delta)
 		{
 			double threshold = 0.001;
@@ -68,6 +74,11 @@ namespace QueenSolver
 			return Math.Exp(temp / delta) > threshold;
 		}
 
+		/// <summary>
+		/// helper method to count the number of queens attacking each other
+		/// </summary>
+		/// <param name="boardState"></param>
+		/// <returns></returns>
 		private static int countIntersections(List<int> boardState)
 		{
 			int count = 0;
@@ -88,6 +99,12 @@ namespace QueenSolver
 			return count;
 		}
 
+
+		/// <summary>
+		/// helper method to generate a random solution
+		/// </summary>
+		/// <param name="boardState"></param>
+		/// <returns></returns>
 		private static List<int> randomSoln(int[] boardState)
 		{
 			Random random = new Random();
@@ -102,6 +119,11 @@ namespace QueenSolver
 
 		}
 
+		/// <summary>
+		/// helper mehtod to generate a random neighboring solution
+		/// </summary>
+		/// <param name="boardState"></param>
+		/// <returns></returns>
 		private static List<int> randomNbr(List<int> boardState)
 		{
 			if(boardState.Count == 0)

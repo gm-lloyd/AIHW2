@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QyFuOlWZFoCsPZx3wOfSQuIWg+Im6iDw1fGxQImaPGYEU2Fgui+ZuHDfIt2AwrRAFDOhs69lh+WFudBBAJL7lw==",
+  "dgSpecHash": "VTrDGRkNSlboxgZduAFUsBsCrNyTlddE965R7fJNw2lAykTCrUjVluOGGDk/mng9/QXrLA2BYoY17Vx15rJY/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\QueenSolver\\QueenSolver.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\QueenSolver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\QueenSolver\\QueenSolver.csproj": {}
+    "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\QueenSolver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\QueenSolver\\QueenSolver.csproj": {
+    "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\QueenSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\QueenSolver\\QueenSolver.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\QueenSolver.csproj",
         "projectName": "QueenSolver",
-        "projectPath": "C:\\Users\\user\\source\\repos\\QueenSolver\\QueenSolver.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\QueenSolver.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\QueenSolver\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\AIHW2\\AIHW2\\QueenSolver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
